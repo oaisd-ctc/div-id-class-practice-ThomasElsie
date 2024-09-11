@@ -1,0 +1,45 @@
+.main-box {
+    box-shadow: 5px 5px;
+    border-radius: 10px;
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    border-style: 10px;
+    background-color: black;
+}
+
+#red-box {
+    background-color: red;
+}
+
+#silver-box {
+    background-color: silver;
+}
+
+#navy-box {
+    background-color: navy;
+}
+
+#blue-box {
+    background-color: blue;
+}
+
+#purple-box {
+    background-color: purple;
+}
+
+#gold-box {
+    background-color: gold;
+}
+
+#cyan-box {
+    background-color: cyan;
+}
+
+#orange-box {
+    background-color: orange;
+}
+
+#lightblue-box {
+    background-color: lightblue;
+}
